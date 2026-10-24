@@ -1,0 +1,14 @@
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\bin\Debug\net10.0\Metricas.exe
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\bin\Debug\net10.0\Metricas.deps.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\bin\Debug\net10.0\Metricas.runtimeconfig.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\bin\Debug\net10.0\Metricas.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\bin\Debug\net10.0\Metricas.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\Metricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\Metricas.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\Metricas.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\Metricas.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\Metricas.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\refint\Metricas.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\Metricas.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\Metricas.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Gest.Ordenamientos\C#\Metricas\obj\Debug\net10.0\ref\Metricas.dll

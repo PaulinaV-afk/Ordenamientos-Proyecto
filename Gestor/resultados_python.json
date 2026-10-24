@@ -1,0 +1,596 @@
+[
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.7167,
+        "comparaciones": 4929,
+        "intercambios": 2552
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.4607,
+        "comparaciones": 2642,
+        "intercambios": 2552
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.2649,
+        "comparaciones": 1026,
+        "intercambios": 584
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 5.2859,
+        "comparaciones": 0,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.1298,
+        "comparaciones": 414,
+        "intercambios": 345
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.2451,
+        "comparaciones": 0,
+        "intercambios": 500
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0183,
+        "comparaciones": 99,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0298,
+        "comparaciones": 99,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.3281,
+        "comparaciones": 1081,
+        "intercambios": 640
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 4.8127,
+        "comparaciones": 0,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0905,
+        "comparaciones": 190,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.3088,
+        "comparaciones": 0,
+        "intercambios": 500
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 1.2394,
+        "comparaciones": 4950,
+        "intercambios": 4950
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 1.1495,
+        "comparaciones": 4950,
+        "intercambios": 4950
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.2632,
+        "comparaciones": 944,
+        "intercambios": 516
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 9.3381,
+        "comparaciones": 0,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.1651,
+        "comparaciones": 563,
+        "intercambios": 563
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.242,
+        "comparaciones": 0,
+        "intercambios": 500
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 82.8109,
+        "comparaciones": 498510,
+        "intercambios": 248073
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 45.802,
+        "comparaciones": 249066,
+        "intercambios": 248073
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 3.7338,
+        "comparaciones": 16802,
+        "intercambios": 9056
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 5.0473,
+        "comparaciones": 0,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 5.5265,
+        "comparaciones": 26555,
+        "intercambios": 25610
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 2.0294,
+        "comparaciones": 0,
+        "intercambios": 5000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.1191,
+        "comparaciones": 999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.1646,
+        "comparaciones": 999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 3.8702,
+        "comparaciones": 17583,
+        "intercambios": 9708
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 5.1386,
+        "comparaciones": 0,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.8075,
+        "comparaciones": 1990,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 2.1465,
+        "comparaciones": 0,
+        "intercambios": 5000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 106.2963,
+        "comparaciones": 499500,
+        "intercambios": 499498
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 90.0904,
+        "comparaciones": 499500,
+        "intercambios": 499498
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 3.8505,
+        "comparaciones": 15964,
+        "intercambios": 8315
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 5.9407,
+        "comparaciones": 0,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 9.416,
+        "comparaciones": 50950,
+        "intercambios": 50948
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 3.3952,
+        "comparaciones": 0,
+        "intercambios": 5000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 9027.3771,
+        "comparaciones": 49989950,
+        "intercambios": 25087352
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 4796.7856,
+        "comparaciones": 25097345,
+        "intercambios": 25087352
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 68.4546,
+        "comparaciones": 235227,
+        "intercambios": 124099
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 9.8793,
+        "comparaciones": 0,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 473.4927,
+        "comparaciones": 2487933,
+        "intercambios": 2478007
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 20.6166,
+        "comparaciones": 0,
+        "intercambios": 50000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 1.1858,
+        "comparaciones": 9999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 2.2195,
+        "comparaciones": 9999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 58.9422,
+        "comparaciones": 244505,
+        "intercambios": 131507
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 8.648,
+        "comparaciones": 0,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 4.6354,
+        "comparaciones": 19990,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 22.4938,
+        "comparaciones": 0,
+        "intercambios": 50000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BubbleSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 11656.7143,
+        "comparaciones": 49995000,
+        "intercambios": 49994496
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "InsertionSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 9965.4818,
+        "comparaciones": 49994979,
+        "intercambios": 49994496
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 49.8964,
+        "comparaciones": 226656,
+        "intercambios": 116690
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 7.4325,
+        "comparaciones": 0,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 943.1762,
+        "comparaciones": 5006742,
+        "intercambios": 5006259
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 24.522,
+        "comparaciones": 0,
+        "intercambios": 50000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 730.4845,
+        "comparaciones": 3019073,
+        "intercambios": 1574677
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 42.3951,
+        "comparaciones": 0,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 50427.8778,
+        "comparaciones": 250827204,
+        "intercambios": 250727299
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 323.5039,
+        "comparaciones": 0,
+        "intercambios": 600000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 688.0063,
+        "comparaciones": 3114751,
+        "intercambios": 1648786
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 46.3947,
+        "comparaciones": 0,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 59.488,
+        "comparaciones": 199990,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 282.0849,
+        "comparaciones": 0,
+        "intercambios": 600000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HeapSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 622.5027,
+        "comparaciones": 2926536,
+        "intercambios": 1497548
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "HashSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 43.1409,
+        "comparaciones": 0,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "BucketSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 100573.9449,
+        "comparaciones": 500085353,
+        "intercambios": 500048535
+    },
+    {
+        "lenguaje": "Python",
+        "algoritmo": "RadixSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 246.0405,
+        "comparaciones": 0,
+        "intercambios": 600000
+    }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0,
+    "comparaciones": 4940,
+    "intercambios": 2652
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0,
+    "comparaciones": 2747,
+    "intercambios": 2652
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0,
+    "comparaciones": 1026,
+    "intercambios": 584
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0,
+    "comparaciones": 418,
+    "intercambios": 348
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.9968,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 99,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 99,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 1081,
+    "intercambios": 640
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.9965,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 190,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0,
+    "comparaciones": 4950,
+    "intercambios": 4950
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0,
+    "comparaciones": 4950,
+    "intercambios": 4950
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0,
+    "comparaciones": 944,
+    "intercambios": 516
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.9997,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0,
+    "comparaciones": 573,
+    "intercambios": 573
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 7.9998,
+    "comparaciones": 499434,
+    "intercambios": 248219
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 2.9985,
+    "comparaciones": 249213,
+    "intercambios": 248219
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.0001,
+    "comparaciones": 16839,
+    "intercambios": 9072
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.9998,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.9985,
+    "comparaciones": 26879,
+    "intercambios": 25917
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 17576,
+    "intercambios": 9707
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.001,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 1990,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.0029,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 12.0106,
+    "comparaciones": 499500,
+    "intercambios": 499493
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 4.0003,
+    "comparaciones": 499500,
+    "intercambios": 499493
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 0,
+    "comparaciones": 15969,
+    "intercambios": 8319
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 1.0011,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 1.5092,
+    "comparaciones": 50849,
+    "intercambios": 50842
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 1.0045,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 625.487,
+    "comparaciones": 49994985,
+    "intercambios": 24962727
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 213.895,
+    "comparaciones": 24972713,
+    "intercambios": 24962727
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 5.9895,
+    "comparaciones": 235390,
+    "intercambios": 124165
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.0135,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 21.2265,
+    "comparaciones": 2526666,
+    "intercambios": 2516737
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 2.9978,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 9999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0,
+    "comparaciones": 9999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 4.0086,
+    "comparaciones": 244478,
+    "intercambios": 131474
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.9944,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.0041,
+    "comparaciones": 19990,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 2.9973,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 946.764,
+    "comparaciones": 49995000,
+    "intercambios": 49994504
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 435.732,
+    "comparaciones": 49994989,
+    "intercambios": 49994504
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 4.0263,
+    "comparaciones": 226702,
+    "intercambios": 116719
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 1.9935,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 53.2377,
+    "comparaciones": 5009108,
+    "intercambios": 5008623
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 3.0244,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 72050,
+    "comparaciones": 4999873755,
+    "intercambios": 2499270279
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 20447.8,
+    "comparaciones": 2499370271,
+    "intercambios": 2499270279
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 65.5859,
+    "comparaciones": 3019886,
+    "intercambios": 1574866
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 7.1076,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 2190.56,
+    "comparaciones": 250101138,
+    "intercambios": 250001231
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 27.0005,
+    "comparaciones": 0,
+    "intercambios": 500000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.9989,
+    "comparaciones": 99999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.9994,
+    "comparaciones": 99999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 53.999,
+    "comparaciones": 3114674,
+    "intercambios": 1648993
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 6.9983,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 11.9958,
+    "comparaciones": 199990,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 34.0066,
+    "comparaciones": 0,
+    "intercambios": 500000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BubbleSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 87703.5,
+    "comparaciones": 4999950000,
+    "intercambios": 4999900431
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "InsertionSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 41736.2,
+    "comparaciones": 4999937019,
+    "intercambios": 4999900431
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 54.001,
+    "comparaciones": 2926714,
+    "intercambios": 1497604
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 8.5146,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 4273.6,
+    "comparaciones": 500080151,
+    "intercambios": 500043563
+  },
+  {
+    "lenguaje": "C++",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 28.3838,
+    "comparaciones": 0,
+    "intercambios": 500000
+  }
+]

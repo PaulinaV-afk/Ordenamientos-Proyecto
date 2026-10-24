@@ -1,0 +1,596 @@
+[
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.6282,
+        "comparaciones": 4947,
+        "intercambios": 2746
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.5841,
+        "comparaciones": 2842,
+        "intercambios": 2746
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.5063,
+        "comparaciones": 1018,
+        "intercambios": 564
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 1.9787,
+        "comparaciones": 0,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.3405,
+        "comparaciones": 382,
+        "intercambios": 309
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 100,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.4923,
+        "comparaciones": 0,
+        "intercambios": 500
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.015,
+        "comparaciones": 99,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0034,
+        "comparaciones": 99,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.038,
+        "comparaciones": 1081,
+        "intercambios": 640
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 1.7162,
+        "comparaciones": 0,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0506,
+        "comparaciones": 190,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 100,
+        "estado": "ordenado",
+        "tiempo_ms": 0.1201,
+        "comparaciones": 0,
+        "intercambios": 500
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.0855,
+        "comparaciones": 4950,
+        "intercambios": 4950
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.0158,
+        "comparaciones": 4950,
+        "intercambios": 4950
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.0268,
+        "comparaciones": 944,
+        "intercambios": 516
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 1.3444,
+        "comparaciones": 0,
+        "intercambios": 100
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.0415,
+        "comparaciones": 563,
+        "intercambios": 563
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 100,
+        "estado": "inverso",
+        "tiempo_ms": 0.112,
+        "comparaciones": 0,
+        "intercambios": 500
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 1.6098,
+        "comparaciones": 498680,
+        "intercambios": 260926
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.5622,
+        "comparaciones": 261916,
+        "intercambios": 260926
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.4861,
+        "comparaciones": 16795,
+        "intercambios": 9037
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 1.1007,
+        "comparaciones": 0,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.3562,
+        "comparaciones": 27925,
+        "intercambios": 26977
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 1000,
+        "estado": "aleatorio",
+        "tiempo_ms": 0.4223,
+        "comparaciones": 0,
+        "intercambios": 5000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0231,
+        "comparaciones": 999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0047,
+        "comparaciones": 999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.2144,
+        "comparaciones": 17574,
+        "intercambios": 9700
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 1.6309,
+        "comparaciones": 0,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.1529,
+        "comparaciones": 1990,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 1000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.2263,
+        "comparaciones": 0,
+        "intercambios": 5000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 1.3028,
+        "comparaciones": 499500,
+        "intercambios": 499493
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 0.9825,
+        "comparaciones": 499500,
+        "intercambios": 499493
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 0.1488,
+        "comparaciones": 15966,
+        "intercambios": 8315
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 0.9825,
+        "comparaciones": 0,
+        "intercambios": 1000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 0.4356,
+        "comparaciones": 50929,
+        "intercambios": 50922
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 1000,
+        "estado": "inverso",
+        "tiempo_ms": 0.2006,
+        "comparaciones": 0,
+        "intercambios": 5000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 108.9134,
+        "comparaciones": 49992444,
+        "intercambios": 24997766
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 48.767,
+        "comparaciones": 25007757,
+        "intercambios": 24997766
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 3.3735,
+        "comparaciones": 235367,
+        "intercambios": 124292
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 1.9102,
+        "comparaciones": 0,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 6.7207,
+        "comparaciones": 2506109,
+        "intercambios": 2496181
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 10000,
+        "estado": "aleatorio",
+        "tiempo_ms": 2.1697,
+        "comparaciones": 0,
+        "intercambios": 50000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0617,
+        "comparaciones": 9999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.0525,
+        "comparaciones": 9999,
+        "intercambios": 0
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 2.5484,
+        "comparaciones": 244484,
+        "intercambios": 131525
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 1.2273,
+        "comparaciones": 0,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 0.7335,
+        "comparaciones": 19990,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 10000,
+        "estado": "ordenado",
+        "tiempo_ms": 1.5802,
+        "comparaciones": 0,
+        "intercambios": 50000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BubbleSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 132.9922,
+        "comparaciones": 49995000,
+        "intercambios": 49994487
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "InsertionSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 97.7214,
+        "comparaciones": 49994988,
+        "intercambios": 49994487
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 2.5903,
+        "comparaciones": 226709,
+        "intercambios": 116709
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 0.7692,
+        "comparaciones": 0,
+        "intercambios": 10000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 9.9906,
+        "comparaciones": 5014685,
+        "intercambios": 5014184
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 10000,
+        "estado": "inverso",
+        "tiempo_ms": 1.5943,
+        "comparaciones": 0,
+        "intercambios": 50000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 32.6678,
+        "comparaciones": 3019340,
+        "intercambios": 1574636
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 5.2172,
+        "comparaciones": 0,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 500.3364,
+        "comparaciones": 250140736,
+        "intercambios": 250040829
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 100000,
+        "estado": "aleatorio",
+        "tiempo_ms": 20.0195,
+        "comparaciones": 0,
+        "intercambios": 500000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 26.3851,
+        "comparaciones": 3114617,
+        "intercambios": 1648739
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 8.0735,
+        "comparaciones": 0,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 15.8125,
+        "comparaciones": 199990,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 100000,
+        "estado": "ordenado",
+        "tiempo_ms": 16.1203,
+        "comparaciones": 0,
+        "intercambios": 500000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HeapSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 23.5953,
+        "comparaciones": 2926736,
+        "intercambios": 1497797
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "HashSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 5.08,
+        "comparaciones": 0,
+        "intercambios": 100000
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "BucketSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 1611.4815,
+        "comparaciones": 500079094,
+        "intercambios": 500042403
+    },
+    {
+        "lenguaje": "JavaScript",
+        "algoritmo": "RadixSort",
+        "tamano": 100000,
+        "estado": "inverso",
+        "tiempo_ms": 12.1969,
+        "comparaciones": 0,
+        "intercambios": 500000
+    }
+]

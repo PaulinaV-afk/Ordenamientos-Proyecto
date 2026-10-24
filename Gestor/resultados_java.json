@@ -1,0 +1,596 @@
+[
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.3922,
+    "comparaciones": 4905,
+    "intercambios": 2644
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.1829,
+    "comparaciones": 2735,
+    "intercambios": 2644
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.1414,
+    "comparaciones": 1023,
+    "intercambios": 588
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 4.1579,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 2.2262,
+    "comparaciones": 434,
+    "intercambios": 367
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 2.1519,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0082,
+    "comparaciones": 99,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0090,
+    "comparaciones": 99,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0399,
+    "comparaciones": 1081,
+    "intercambios": 640
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.8388,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.3040,
+    "comparaciones": 190,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.3234,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.5586,
+    "comparaciones": 4950,
+    "intercambios": 4950
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.2465,
+    "comparaciones": 4950,
+    "intercambios": 4950
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.0317,
+    "comparaciones": 944,
+    "intercambios": 516
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.9860,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.5480,
+    "comparaciones": 578,
+    "intercambios": 578
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.9778,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 9.2368,
+    "comparaciones": 499224,
+    "intercambios": 250377
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 4.2730,
+    "comparaciones": 251374,
+    "intercambios": 250377
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.4289,
+    "comparaciones": 16851,
+    "intercambios": 9071
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.9428,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.0122,
+    "comparaciones": 27277,
+    "intercambios": 26333
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.0014,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0102,
+    "comparaciones": 999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0140,
+    "comparaciones": 999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.2763,
+    "comparaciones": 17577,
+    "intercambios": 9703
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 3.2233,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.7504,
+    "comparaciones": 1990,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.9519,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 1.1003,
+    "comparaciones": 499500,
+    "intercambios": 499494
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 7.4967,
+    "comparaciones": 499500,
+    "intercambios": 499494
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 0.1876,
+    "comparaciones": 15965,
+    "intercambios": 8316
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 0.3525,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 1.4281,
+    "comparaciones": 51010,
+    "intercambios": 51004
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 0.8936,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 90.0910,
+    "comparaciones": 49993404,
+    "intercambios": 25000022
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 30.6635,
+    "comparaciones": 25010008,
+    "intercambios": 25000022
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.8665,
+    "comparaciones": 235394,
+    "intercambios": 124212
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.5761,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 7.5631,
+    "comparaciones": 2520493,
+    "intercambios": 2510552
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 2.7816,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0913,
+    "comparaciones": 9999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0463,
+    "comparaciones": 9999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.5237,
+    "comparaciones": 244495,
+    "intercambios": 131464
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.4713,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 2.1698,
+    "comparaciones": 19990,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.5291,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 88.6495,
+    "comparaciones": 49995000,
+    "intercambios": 49994519
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 42.8899,
+    "comparaciones": 49994985,
+    "intercambios": 49994519
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 1.5327,
+    "comparaciones": 226686,
+    "intercambios": 116686
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 2.8977,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 6.9325,
+    "comparaciones": 5007018,
+    "intercambios": 5006552
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 2.0382,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 16.6156,
+    "comparaciones": 3019798,
+    "intercambios": 1575329
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 10.6006,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 242.4340,
+    "comparaciones": 250574706,
+    "intercambios": 250474812
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 7.1308,
+    "comparaciones": 0,
+    "intercambios": 500000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 9.2047,
+    "comparaciones": 3114401,
+    "intercambios": 1648646
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.4020,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 6.9212,
+    "comparaciones": 199990,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 4.7560,
+    "comparaciones": 0,
+    "intercambios": 500000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 12.8029,
+    "comparaciones": 2926608,
+    "intercambios": 1497606
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 1.3578,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 573.5348,
+    "comparaciones": 500097697,
+    "intercambios": 500060904
+  },
+  {
+    "lenguaje": "Java",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 4.6534,
+    "comparaciones": 0,
+    "intercambios": 500000
+  }
+]

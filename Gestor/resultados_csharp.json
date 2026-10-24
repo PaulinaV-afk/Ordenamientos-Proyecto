@@ -1,0 +1,596 @@
+[
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.6337,
+    "comparaciones": 4859,
+    "intercambios": 2379
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.3916,
+    "comparaciones": 2469,
+    "intercambios": 2379
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.7293,
+    "comparaciones": 1031,
+    "intercambios": 589
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 6.5301,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.664,
+    "comparaciones": 464,
+    "intercambios": 399
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.9799,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0407,
+    "comparaciones": 99,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0039,
+    "comparaciones": 99,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0486,
+    "comparaciones": 1081,
+    "intercambios": 640
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.8239,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0236,
+    "comparaciones": 190,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0304,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.1033,
+    "comparaciones": 4950,
+    "intercambios": 4950
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.0972,
+    "comparaciones": 4950,
+    "intercambios": 4950
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.0403,
+    "comparaciones": 944,
+    "intercambios": 516
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.601,
+    "comparaciones": 0,
+    "intercambios": 100
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.0396,
+    "comparaciones": 607,
+    "intercambios": 607
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 100,
+    "estado": "inverso",
+    "tiempo_ms": 0.0354,
+    "comparaciones": 0,
+    "intercambios": 500
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 16.2356,
+    "comparaciones": 494747,
+    "intercambios": 253554
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 6.0925,
+    "comparaciones": 254545,
+    "intercambios": 253554
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.5962,
+    "comparaciones": 16797,
+    "intercambios": 9035
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.5651,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.0492,
+    "comparaciones": 26837,
+    "intercambios": 25889
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "aleatorio",
+    "tiempo_ms": 0.294,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0193,
+    "comparaciones": 999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.0175,
+    "comparaciones": 999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.4446,
+    "comparaciones": 17581,
+    "intercambios": 9707
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.0388,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.2013,
+    "comparaciones": 1990,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.3614,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 13.3035,
+    "comparaciones": 499500,
+    "intercambios": 499497
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 15.3351,
+    "comparaciones": 499500,
+    "intercambios": 499497
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 0.5516,
+    "comparaciones": 15967,
+    "intercambios": 8317
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 0.7084,
+    "comparaciones": 0,
+    "intercambios": 1000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 1.3063,
+    "comparaciones": 50870,
+    "intercambios": 50867
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 1000,
+    "estado": "inverso",
+    "tiempo_ms": 0.294,
+    "comparaciones": 0,
+    "intercambios": 5000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 910.8398,
+    "comparaciones": 49966320,
+    "intercambios": 24975748
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 485.5556,
+    "comparaciones": 24985740,
+    "intercambios": 24975748
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 8.1847,
+    "comparaciones": 235428,
+    "intercambios": 124208
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 1.1493,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 61.6261,
+    "comparaciones": 2528695,
+    "intercambios": 2518771
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "aleatorio",
+    "tiempo_ms": 2.3897,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.1139,
+    "comparaciones": 9999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.1922,
+    "comparaciones": 9999,
+    "intercambios": 0
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 5.6265,
+    "comparaciones": 244478,
+    "intercambios": 131426
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 1.0425,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 0.8658,
+    "comparaciones": 19990,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "ordenado",
+    "tiempo_ms": 2.3901,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BubbleSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 1108.9188,
+    "comparaciones": 49995000,
+    "intercambios": 49994441
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "InsertionSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 986.1141,
+    "comparaciones": 49994980,
+    "intercambios": 49994441
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 5.1497,
+    "comparaciones": 226688,
+    "intercambios": 116692
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 3.924,
+    "comparaciones": 0,
+    "intercambios": 10000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 102.3749,
+    "comparaciones": 5013742,
+    "intercambios": 5013203
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 10000,
+    "estado": "inverso",
+    "tiempo_ms": 2.3009,
+    "comparaciones": 0,
+    "intercambios": 50000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 78.3784,
+    "comparaciones": 3019781,
+    "intercambios": 1574971
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 4.9108,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 4823.0001,
+    "comparaciones": 250031636,
+    "intercambios": 249931723
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "aleatorio",
+    "tiempo_ms": 21.0697,
+    "comparaciones": 0,
+    "intercambios": 500000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 74.6285,
+    "comparaciones": 3114587,
+    "intercambios": 1648965
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 4.2978,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 4.6733,
+    "comparaciones": 199990,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "ordenado",
+    "tiempo_ms": 19.4177,
+    "comparaciones": 0,
+    "intercambios": 500000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HeapSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 68.1391,
+    "comparaciones": 2926782,
+    "intercambios": 1497719
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "HashSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 3.6609,
+    "comparaciones": 0,
+    "intercambios": 100000
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "BucketSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 9760.6677,
+    "comparaciones": 500064062,
+    "intercambios": 500027489
+  },
+  {
+    "lenguaje": "C#",
+    "algoritmo": "RadixSort",
+    "tamano": 100000,
+    "estado": "inverso",
+    "tiempo_ms": 20.6932,
+    "comparaciones": 0,
+    "intercambios": 500000
+  }
+]
